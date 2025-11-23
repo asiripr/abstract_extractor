@@ -13,5 +13,8 @@ A simple Python tool that extracts abstracts from up to 10 DOI links using the C
 - Saves output to `abstracts.csv`  
 - Modular and easy to extend
 
+command 01:
 pip install requests
+
+command 02:
 python main.py
